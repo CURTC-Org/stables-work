@@ -14,8 +14,3 @@ uh well needless to explain, he doesnt own them anymore and i thought its funny 
 ## What are my rights? How can I use the open-source material?
 
 You can view your rights by searching the name of the licence the work comes with. Most of the material will carry a 'Mozilla Public Licence (MPL)' licence, and some of it might carry a 'EUPL-1.1 (European Union Public Licence v1.1)' licence.
-
---------
-# IMPORTANT ⛔️
-
-If you are affiliated in any way with Clean Up RTC (owner, developer, partner etc.), you cannot edit, distribute or integrate this work into your own projects. Doing so will result in further action.
