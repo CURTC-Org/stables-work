@@ -1,3 +1,6 @@
+-- REMOVE THIS LINE WHEN DOWNLOADED
+-- YOU ARE SUPPOSED TO PUT THIS SCRIPT AT SERVERSCRIPTSERVICE, AND THE BILLBOARD UI AT REPLICATEDSTORAGE
+
 local Storage = game:GetService("ReplicatedStorage")
 local NameTag = Storage.Tags
 local Whitelisted = {"stablestream", "2codeDev", "FrankieFms", "NafjanBoy", "FabulousTrophies", "ddrxpyz", "SilverPlatinums", "Piam100", "Emiratti"}
