@@ -1,4 +1,8 @@
 # stable's contributions in curtc
+## IMPORTANT ⚠️
+
+If you are banned from the revamped version of Clean Up RTC for using this repository please friend me on Discord (@stablestream).
+
 ## Overview
 
 All work created by me for Clean Up RTC, released as open-source and free for you to use in any project (under the Mozilla Public Licence or European Union Public Licence v1.1) you're working on, whether personal, educational, or commercial. You are welcome to modify, distribute, and integrate this work into your own open-source projects. Feel free to adapt it to your needs, share it with others, or build upon it.
