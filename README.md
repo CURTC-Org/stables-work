@@ -1,7 +1,8 @@
 # stable's contributions in curtc
 ## IMPORTANT ⚠️
 
-If you are banned from the revamped version of Clean Up RTC for using this repository please friend me on Discord (@stablestream).
+- If you are banned from the revamped version of Clean Up RTC for using this repository please friend me on Discord (@stablestream).
+- All assets available here are OLD. I won't fix any bugs related to anything in this repository.
 
 ## Overview
 
